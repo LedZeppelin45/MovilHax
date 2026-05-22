@@ -20,6 +20,6 @@ sudo python movilhax.py
 
 -Windows: 
 
-python intall.py
+python install.py
 
 python movihax.py
