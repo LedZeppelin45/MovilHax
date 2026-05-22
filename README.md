@@ -15,9 +15,11 @@ This Python Program be create to internet scanner. I created this tool and OpenC
 -Linux:
 
 sudo python install.py
+
 sudo python movilhax.py
 
 -Windows: 
 
 python intall.py
+
 python movihax.py
