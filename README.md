@@ -12,16 +12,10 @@ Este programa de Python es un escaner de red completo. Creado por mi y con ayuda
 
 This Python Program is network scanner. I created this tool and OpenCoder, my intention is that new people have a simple and first tools of hacking éhtical. The installation is simple, you need python and write a command on terminal with the file "install.py and after run "movilhax.py". The command promt put down on description:
 
-## Command:
+## Commands:
 
 -Linux:
 
-sudo python install.py
+sudo python install.sh
 
 sudo python movilhax.py
-
--Windows: 
-
-python install.py
-
-python movihax.py
