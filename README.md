@@ -16,7 +16,9 @@ This Python Program is network scanner. I created this tool and OpenCoder, my in
 
 -Linux:
 
-´´´bash
+
+```bash
 sudo bash install.sh
 sudo python movilhax.py
-´´´
+```
+
